@@ -26,4 +26,4 @@ Now, Random Forest models don't just create a ton of trees using the same data a
 
 - Explanation of bagging and random subspace https://courses.thinkful.com/data-201v1/assignment/3.2.3
 
-- 
+- Sample of a random forests usage: https://courses.thinkful.com/data-201v1/project/3.2.5
